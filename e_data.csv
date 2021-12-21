@@ -1,0 +1,25 @@
+﻿ID,Site,type,Family,Order,OTU,Order_insect,Family_insect
+2s,Site 02,soil,70,32,172,7,27
+4s,Site 04,soil,96,39,245,7,37
+7s,Site 07,soil,73,35,130,8,30
+9s,Site 09,soil,78,36,174,6,28
+11s,Site 11,soil,31,18,52,4,10
+14s,Site 14,soil,82,33,198,8,35
+2w,Site 02,water,66,28,177,6,26
+4w,Site 04,water,68,32,173,6,25
+7w,Site 07,water,72,35,193,6,26
+9w,Site 09,water,54,28,122,6,20
+11w,Site 11,water,63,31,190,6,23
+14w,Site 14,water,25,12,45,3,8
+t2,Site 02,trap,NA,NA,NA,NA,6
+t3,Site 03,trap,NA,NA,NA,NA,3
+t4,Site 04,trap,NA,NA,NA,NA,14
+t5,Site 05,trap,NA,NA,NA,NA,5
+t7,Site 07,trap,NA,NA,NA,NA,9
+t8,Site 08,trap,NA,NA,NA,NA,10
+t9,Site 09,trap,NA,NA,NA,NA,9
+t10,Site 10,trap,NA,NA,NA,NA,6
+t11,Site 11,trap,NA,NA,NA,NA,10
+t12,Site 12,trap,NA,NA,NA,NA,15
+t14,Site 14,trap,NA,NA,NA,NA,17
+t15,Site 15,trap,NA,NA,NA,NA,7
